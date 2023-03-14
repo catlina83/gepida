@@ -1,1 +1,41 @@
 /* Juhász Katalin, SZOFT I-1_E, 2023-02-14 */
+
+html{
+    font-size: 12px;
+}
+
+body{
+    background-color: silver;
+    font-family: sans-serif;
+}
+
+.container{
+    max-width: 1000px;
+}
+
+.id{
+    font-size: 15px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: yellow;
+}
+
+.container h1{
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+    padding: 20px;
+}
+
+td, th {
+    width: 20%;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.ab{
+    text-align: left;
+    color: palevioletred;
+    font-size: 15px
+}
